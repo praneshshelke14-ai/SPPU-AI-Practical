@@ -1,0 +1,8 @@
+PASS | compile + smoke run | Practical-01-Expert-System/practical_01_rule_based_expert_system.py | exit code 0
+PASS | compile + smoke run | Practical-02-BFS-DFS-Maze/practical_02_bfs_dfs_maze_solver.py | exit code 0
+PASS | compile + smoke run | Practical-03-A-Star-Search/practical_03_a_star_search.py | exit code 0
+PASS | compile + smoke run | Practical-04-Constraint-Satisfaction/practical_04_csp_map_coloring.py | exit code 0
+PASS | compile + smoke run | Practical-05-Minimax/practical_05_minimax_tictactoe.py | exit code 0
+PASS | compile + smoke run | Practical-06-Minimax-Alpha-Beta/practical_06_minimax_alpha_beta.py | exit code 0
+
+Note: Practicals 7-9 are tool-based activities and have no prescribed Python program in the supplied practical documents.
